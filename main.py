@@ -8,3 +8,4 @@ def LevelTwo():
 StartScherm()
 LevelOne()
 LevelTwo()
+#Ding om te committen
